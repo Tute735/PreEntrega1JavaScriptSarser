@@ -36,13 +36,14 @@ body{
     font-size: 20px;
   }
   .contact_data .inputs{
-    display: flex;
     justify-content: center;
     padding: 30px;
     margin: 10px;
   }
   .contact_data .inputs input{
-    margin-left: 20px;
+    margin-left: 230px;
+    justify-content: center;
+    align-items: center;
   }
 
 .conversores{
